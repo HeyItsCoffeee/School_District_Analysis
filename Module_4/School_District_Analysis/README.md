@@ -1,6 +1,6 @@
 # School_District_Analysis
 
-##Analysis for School Districts Python
+## Analysis for School Districts Python
 
 
 There were quite a few null values through-out the math and reading scores data that I was curious about. It perhaps would have been better to try and understand why those values were there instead of just dropping them immediately.
